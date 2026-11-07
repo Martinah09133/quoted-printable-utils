@@ -1,6 +1,6 @@
 {
   "name": "quoted-printable-utils",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quoted-printable encoder and decoder for MIME email content per RFC 2045",
   "type": "module",
   "main": "src/index.js",
